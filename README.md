@@ -2,6 +2,12 @@
 
 This repository demonstrates the implementation of **Delta Modulation (DM)** and **Delta Demodulation (DD)** using Python. Delta Modulation is a method for digitizing analog signals, particularly suited for low-bandwidth communication systems. The project also includes signal reconstruction with a Low-Pass Filter (LPF) to improve accuracy.
 
+## **Example Results**
+
+Below is an example output from the Delta Modulation and Demodulation process:
+
+![Delta Modulation Output](Figure/Figure_1.png)
+
 ---
 
 ## **Features**
