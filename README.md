@@ -64,4 +64,3 @@ The script generates the following plots:
 - **Reconstructed Signal**
 - **Reconstructed Signal (after LPF)**
 - **Signal Comparisons (Original vs. Reconstructed)**
-```
